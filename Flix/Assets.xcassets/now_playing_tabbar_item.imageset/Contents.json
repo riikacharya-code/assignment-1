@@ -1,12 +1,10 @@
 {
   "images" : [
     {
-      "filename" : "now_playing_tabbar_item.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "now_playing_tabbar_item@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
